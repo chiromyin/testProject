@@ -15,21 +15,7 @@ export default class App extends Component{
         <View style={{flex:1,}}>
           <TouchableOpacity><Text>1</Text></TouchableOpacity>
           <TouchableOpacity><Text>2</Text></TouchableOpacity>
-          <TouchableOpacity><Text>3</Text></TouchableOpacity>
-          <TouchableOpacity><Text>4</Text></TouchableOpacity>   
-          <TouchableOpacity><Text>5</Text></TouchableOpacity>
-          <TouchableOpacity><Text>6</Text></TouchableOpacity>
-          <TouchableOpacity><Text>7</Text></TouchableOpacity>
-          <TouchableOpacity><Text>8</Text></TouchableOpacity>
-          <TouchableOpacity><Text>1</Text></TouchableOpacity>
-          <TouchableOpacity><Text>2</Text></TouchableOpacity>
-          <TouchableOpacity><Text>3</Text></TouchableOpacity>
-          <TouchableOpacity><Text>4</Text></TouchableOpacity>   
-          <TouchableOpacity><Text>5</Text></TouchableOpacity>
-          <TouchableOpacity><Text>6</Text></TouchableOpacity>
-          <TouchableOpacity><Text>7</Text></TouchableOpacity>
-          <TouchableOpacity><Text>8</Text></TouchableOpacity>
-          
+          <TouchableOpacity><Text>3</Text></TouchableOpacity>          
         </View>
       </View>
     );
