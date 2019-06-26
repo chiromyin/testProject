@@ -21,6 +21,11 @@ export default class App extends Component{
           <TouchableOpacity><Text>6</Text></TouchableOpacity>
           <TouchableOpacity><Text>7</Text></TouchableOpacity>
           <TouchableOpacity><Text>8</Text></TouchableOpacity>
+          <TouchableOpacity><Text>4</Text></TouchableOpacity>   
+          <TouchableOpacity><Text>5</Text></TouchableOpacity>
+          <TouchableOpacity><Text>6</Text></TouchableOpacity>
+          <TouchableOpacity><Text>7</Text></TouchableOpacity>
+          <TouchableOpacity><Text>8</Text></TouchableOpacity>
         </View>
       </View>
     );
